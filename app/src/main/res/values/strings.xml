@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Expandable List View Practice</string>
+
+
+    <string-array name="list_view_header">
+
+        <item>CIA</item>
+        <item>CPL</item>
+        <item>CPS </item>
+        <item>CPT </item>
+        <item>CSI </item>
+        <item>DAFB </item>
+        <item>DMV </item>
+        <item>DNC </item>
+        <item>DOD </item>
+        <item>GIB </item>
+        <item>MAJ </item>
+        <item>MIA </item>
+        <item>POW </item>
+        <item>RNC </item>
+        <item>REAP </item>
+        <item>SGT </item>
+        <item>UN </item>
+        <item>USAF </item>
+        <item>ABS </item>
+        <item>ADD </item>
+        <item>ADHD </item>
+        <item>AMA </item>
+        <item>AMA </item>
+        <item>AMA </item>
+        <item>AMA </item>
+        <item>AMA </item>
+        <item>AMA </item>
+        <item>AMA </item>
+        <item>AMA </item>
+        <item>AMA </item>
+        <item>AMA </item>
+
+    </string-array>
+
+    <string-array name="child_string">
+        <item>Central Intelligence Agency</item>
+        <item>Corporal</item>
+        <item>Child Protective Services</item>
+        <item>Captain</item>
+        <item>Crime Scene Investigation</item>
+        <item>Dover Air Force Base</item>
+        <item>Division of Motor Vehicles</item>
+        <item>Democratic National Committee</item>
+        <item>Department of Defense</item>
+        <item>Department of the Navy</item>
+        <item>Drop Zone</item>
+        <item>Federal Bureau of Investigation</item>
+        <item>GI Bill</item>
+        <item>Prisoner Of War</item>
+        <item>Republican National Committee</item>
+        <item>Reserve Education Assistance Program</item>
+        <item> Sergeant</item>
+        <item>United Nations</item>
+        <item>United States Air Force</item>
+        <item>Anti-lock Braking System</item>
+        <item>Attention Deficit Disorder</item>
+        <item>Attention Deficit Hyperactivity Disorder</item>
+        <item>Against Medical Advice</item>
+        <item>Centers for Disease Control and Prevention</item>
+        <item>Dead On Arrival</item>
+        <item>Date Of Birth</item>
+        <item> Do It Yourself</item>
+        <item>English As A Second Language</item>
+        <item>Frequently Asked Questions</item>
+        <item>Human Immunodeficiency Virus</item>
+        <item> Identification</item>
+    </string-array>
+</resources>
